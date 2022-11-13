@@ -1,13 +1,28 @@
 ## Hi I'm Kodai !!
-
+<br>
 ## 🇯🇵About Me
- * テキスト
- * テキスト
--福岡県出身
--福岡大学経済学部卒業
--市役所職員
--G's ACADEMY FUKUOKA LAB6
--Developer
+ * 福岡県出身
+ * 福岡大学経済学部卒業
+ * 市役所職員
+ * G's ACADEMY FUKUOKA LAB6
+ * Developer
+<br>
+## 💻Intersts
+ * TypeScript
+ * Next.js
+ * Firebase
+ * Algolia
+ * Flutter(これから触る)
+ * Rust(これから触る)
+<br>
+## 🍺Like
+* workout
+* sauna
+* coffee
+* beer
+* cbd
+ 
+
 
 
 
