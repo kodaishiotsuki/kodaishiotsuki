@@ -1,6 +1,11 @@
-## Hi I'm Kodai 👋
+## Hi I'm Kodai !!
 
 ## 🇯🇵About Me
+*福岡県出身
+*福岡大学経済学部卒業
+*市役所職員
+*G's ACADEMY FUKUOKA LAB6
+*Developer
 
 
 
