@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi I'm Kodai 👋
+
+## 🇯🇵About Me
+
+
+
+
+
+
+
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodaishiotsuki&layout=compact&count_private=true&show_icons=true&theme=onedark" />
