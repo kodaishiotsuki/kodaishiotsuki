@@ -9,9 +9,7 @@
  * TypeScript
  * Next.js
  * Firebase
- * Algolia
- * Flutter(これから触る)
- * Rust(これから触る)
+ * Flutter
 ## 🍺Like
 * workout
 * sauna
