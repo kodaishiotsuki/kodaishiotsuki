@@ -8,7 +8,7 @@
 ## 💻Intersts
  * TypeScript
  * Next.js
- * Firebase
+ * React
  * Flutter
 ## 🍺Like
 * workout
