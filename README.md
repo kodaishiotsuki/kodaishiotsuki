@@ -7,8 +7,7 @@
  * Developer
 ## 💻Intersts
  * TypeScript
- * Next.js
- * React
+ * Python
  * Flutter
 ## 🍺Like
 * workout
